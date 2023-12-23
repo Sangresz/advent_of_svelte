@@ -1,7 +1,7 @@
 <script lang="ts">
   import Button from "$lib/components/ui/button/button.svelte";
 
-  let dones: number[] = [];
+  let dones: number[] = [1];
 
   let days: number[] = [];
 
